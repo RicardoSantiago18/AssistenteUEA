@@ -3,7 +3,7 @@ uvicorn
 sentence-transformers
 faiss-cpu
 transformers
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 PyMuPDF
 numpy
 pydantic
